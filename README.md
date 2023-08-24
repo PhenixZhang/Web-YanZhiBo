@@ -3,5 +3,5 @@
 ## 首页示例
 
 ## 书店首页示例
-![](./iamge/index.png)
 
+![](https://github.com/PhenixZhang/Web-YanZhiBo/blob/3d1a6bdacfd0df16acee5a65a7a2f1da4c6b78bc/image/bookstore.png)
